@@ -1,0 +1,90 @@
+{
+    "Colombia": {
+        "start": "October",
+        "end": "February"
+    },
+    "Taiwan": {
+        "start": "April",
+        "end": "October"
+    },
+    "Laos": {
+        "start": "November",
+        "end": "March"
+    },
+    "Costa Rica": {
+        "start": "November",
+        "end": "March"
+    },
+    "Guatemala": {
+        "start": "December",
+        "end": "March"
+    },
+    "Tanzania, United Republic Of": {
+        "start": "July",
+        "end": "September"
+    },
+    "Ethiopia": {
+        "start": "October",
+        "end": "January"
+    },
+    "Thailand": {
+        "start": "November",
+        "end": "February"
+    },
+    "Brazil": {
+        "start": "May",
+        "end": "September"
+    },
+    "United States (Hawaii)": {
+        "start": "September",
+        "end": "November"
+    },
+    "Kenya": {
+        "start": "October",
+        "end": "December"
+    },
+    "Uganda": {
+        "start": "October",
+        "end": "December"
+    },
+    "Indonesia": {
+        "start": "April",
+        "end": "September"
+    },
+    "Peru": {
+        "start": "May",
+        "end": "September"
+    },
+    "Panama": {
+        "start": "October",
+        "end": "February"
+    },
+    "Nicauragua": {
+        "start": "November",
+        "end": "February"
+    },
+    "Vietnam": {
+        "start": "October",
+        "end": "February"
+    },
+    "Honduars": {
+        "start": "November",
+        "end": "February"
+    },
+    "Elsalvador": {
+        "start": "November",
+        "end": "February"
+    },
+    "Madaogascar": {
+        "start": "April",
+        "end": "September"
+    },
+    "Mexico": {
+        "start": "November",
+        "end": "March"
+    },
+    "Myanmar": {
+        "start": "November",
+        "end": "February"
+    }
+}
